@@ -1,0 +1,5 @@
+Credentials cache: API:6C4BDE93-3B5B-4F4F-8944-B5A7A4BA8470
+        Principal: rlecart@42.FR
+
+  Issued                Expires               Principal
+Aug  1 18:00:53 2016  Aug  8 18:00:32 2016  krbtgt/42.FR@42.FR
